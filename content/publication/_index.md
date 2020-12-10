@@ -12,7 +12,4 @@ view: 4
 header:
   caption: "Welfare Effects of Public Procurement of Medicines: Evidence from Ecuador"
   image: ""
-  authors:
-  "admin"
-  "Debi Prasad Mohapatra"
 ---
