@@ -8,7 +8,6 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Research"
-subtitle: "Welfare Effects of Public Procurement of Medicines: Evidence from Ecuador"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
