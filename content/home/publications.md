@@ -22,6 +22,8 @@ subtitle = ""
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
+  
+  title = 'Welfare'
 
   # Filter posts by a taxonomy term.
   [content.filters]
