@@ -36,6 +36,9 @@ education:
     - course: Certificate in Statistical and Computational Data Science
       institution: University of Massachusetts Amherst
       year: 2020
+    - course: B.A. in Economics
+      institution: Pontificia Universidad Catolica del Ecuador
+      year: 2009
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
