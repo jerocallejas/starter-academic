@@ -26,17 +26,16 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
+ courses:
+    - course: Ph.D. (expected 2021) Resource Economics
+      institution: University of Massachusetts Amherst
+      year: 2021
+    - course: M.S. Competition Policy and Market Regulation
+      institution: Barcelona Graduate School of Economics
+      year: 2019
+    - course: Certificate in Statistical and Computational Data Science
+      institution: University of Massachusetts Amherst
+      year: 2020
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
