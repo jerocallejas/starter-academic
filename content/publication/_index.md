@@ -1,6 +1,8 @@
 ---
 title: "Welfare Effects of Public Procurement of Medicines: Evidence from Ecuador"
 
+publication: "*Working Paper (R&R at International Journal of Industrial Organization)*"
+
 # View.
 #   1 = List
 #   2 = Compact
