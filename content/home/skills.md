@@ -21,14 +21,14 @@ subtitle = ""
   description = "80%"
   
 [[feature]]
-  icon = "Matlab"
+  icon = "statistics"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Matlab"
   description = "100%"  
   
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = "10%"
 
