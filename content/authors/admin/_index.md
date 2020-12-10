@@ -44,14 +44,14 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:acallejas@umass.edu".
-- icon: linkedin-in
-  icon_pack: fab
-  link: https://www.linkedin.com/in/jeronimo-callejas-2850158b/
+#- icon: linkedin-in
+#  icon_pack: fab
+# link: https://www.linkedin.com/in/jeronimo-callejas-2850158b/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/CV Jeronimo Callejas.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/CV Jeronimo Callejas.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
