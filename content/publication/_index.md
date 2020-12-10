@@ -1,5 +1,9 @@
 ---
-title: Publications
+title: "Welfare Effects of Public Procurement of Medicines: Evidence from Ecuador"
+
+authors:
+admin
+Debi Prasad Mohapatra
 
 # View.
 #   1 = List
