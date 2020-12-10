@@ -10,6 +10,9 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "Welfare Effects of Public Procurement of Medicines: Evidence from Ecuador"
   image: ""
+  authors:
+  "admin"
+  "Debi Prasad Mohapatra"
 ---
