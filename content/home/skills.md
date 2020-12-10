@@ -21,7 +21,7 @@ subtitle = ""
   description = "80%"
   
 [[feature]]
-  icon = "statistics"
+  icon = "chart-line"
   icon_pack = "fas"
   name = "Matlab"
   description = "100%"  
