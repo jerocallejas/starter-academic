@@ -1,37 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jeronimo Callejas
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Resource Economics University of Massachusetts Amherst
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Massachusetts Amherst
+  url: "//www.umass.edu/resec/graduate-students"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:My research interests include Empirical Industrial Organization, Econometrics, Regulation and Antitrust.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Industrial Organization
+- Econometrics
+- Antitrust
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    - course: Ph.D. (expected 2021) Resource Economics
+      institution: University of Massachusetts Amherst
+      year: 2021
+    - course: M.S. Competition Policy and Market Regulation
+      institution: Barcelona Graduate School of Economics
+      year: 2019
+    - course: Certificate in Statistical and Computational Data Science
+      institution: University of Massachusetts Amherst
+      year: 2020
+    - course: B.A. in Economics
+      institution: Pontificia Universidad Catolica del Ecuador
+      year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,21 +43,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: '/#contact'  # For a direct email link, use "mailto:acallejas@umass.edu".
+- icon: linkedin-in
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/jeronimo-callejas-2850158b/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/CV Jeronimo Callejas.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Ph.D. student in the Resource Economics Department at the University of Massachusetts Amherst. I am originally from Ambato Ecuador. I have a B.A. in Economics from the Pontificia Universidad Catolica del Ecuador and an M.S. in Economic Analysis from the Barcelona Graduate School of Economics. My research interest includes Quantitative Industrial Organization, Econometrics, Regulation, and Antitrust.
