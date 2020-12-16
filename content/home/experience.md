@@ -28,7 +28,7 @@ experience:
 - company: Aleph Omega
   company_url: "alephomega.com.ec"
   date_end: ""
-  date_start: "2017-01-01"
+  date_start: "2014-10-01"
   description: |-
     Responsibilities include:
     * Analysing
