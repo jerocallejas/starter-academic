@@ -22,6 +22,7 @@ interests:
 - Industrial Organization.
 - Econometrics.
 - Antitrust.
+- Computer Science.
 
 
 # Education to show in About widget
