@@ -30,6 +30,7 @@ experience:
   date_end: ""
   date_start: "2017-01-01"
   description: |-
+    Develop the economic strategy and oversee the analyses used for Antitrust litigation.
     Responsibilities include:
     * Analysing
     * Modelling
