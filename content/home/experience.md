@@ -29,7 +29,7 @@ experience:
   company_url: "alephomega.com.ec"
   date_end: ""
   date_start: "2014-10-01"
-  description: |-
+  description:Taught electronic engineering and researched semiconductor physics. |-
     Responsibilities include:
     * Analysing
     * Modelling
