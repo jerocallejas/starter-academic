@@ -29,7 +29,7 @@ date_format = "Jan 2006"
  
   * Economic analysis.
   * Economic modelling.
-  """
+  
 
 [[experience]]
   title = "Regulatory Specialist"
