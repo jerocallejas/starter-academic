@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Welfare Effects of Public Procurement of Medicines: Evidence from Ecuador"
 authors:
 - admin
 - Debi Prasad Mohapatra
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://drive.google.com/file/d/1deVGT3LJtjYTCWAiUqGlfBiXLOwMtHVg/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: ''
