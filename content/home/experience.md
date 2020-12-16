@@ -29,7 +29,7 @@ experience:
   company_url: "alephomega.com.ec"
   date_end: ""
   date_start: "2014-10-01"
-  description: Develop the economic strategy and oversee the analyses used for antitrust litigation.
+  description: |-
     Responsibilities include:
     * Analysing
     * Modelling
