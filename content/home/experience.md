@@ -35,13 +35,13 @@ experience:
     * Analysing
     * Modelling
     * Deploying
-  location: California
-  title: CEO
-- company: University X
-  company_url: ""
-  date_end: "2016-12-31"
-  date_start: "2016-01-01"
-  description: Taught electronic engineering and researched semiconductor physics.
-  location: California
-  title: Professor
+  location: Quito - Ecuador
+  title: Consultant
+- company: Telefonica Ecuador
+  company_url: https://www.telefonica.com.ec/
+  date_end: "2014-10-01"
+  date_start: "2016-07-30"
+  description: Provide economic imputs to advance the company's regulatory agenda
+  location: Quito, Ecuador
+  title: Regulatory specialist
 ---
