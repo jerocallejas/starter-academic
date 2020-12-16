@@ -7,7 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Research"
+title = "Recent Publications"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -21,8 +22,6 @@ title = "Research"
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
-  
-  title = 'Welfare'
 
   # Filter posts by a taxonomy term.
   [content.filters]
@@ -68,6 +67,6 @@ title = "Research"
  css_class = ""
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+{{% alert note %}}
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
