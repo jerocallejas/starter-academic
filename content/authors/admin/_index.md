@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jeronimo Callejs
+title: Jeronimo Callejas
 
 # Is this the primary user of the site?
 superuser: true
