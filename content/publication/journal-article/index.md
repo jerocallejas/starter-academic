@@ -19,7 +19,7 @@ publishDate: "2020-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Industrial Organization*(1)"
+publication: "*Journal of Industrial Organization*(Forthcoming)"
 publication_short: ""
 
 abstract: This article evaluates the welfare implications of a public procurement program, where the Ecuadorian government procures medicines used for cancer treatment and distributes it to patients for free with the aim to benefit the poor. Using a unique dataset on Ecuador’s pharmaceutical market, we estimate a structural model of demand and supply, and focus on two research questions related to this program.
