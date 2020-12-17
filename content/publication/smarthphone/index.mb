@@ -2,6 +2,9 @@
 title: "Domestic Industrial Policy and Consumer Surplus in Developing Countries"
 authors:
 - admin
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2020-12-15T00:00:00Z"
 doi: ""
 
@@ -15,11 +18,11 @@ publishDate: "2020-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper*"
+publication: "*Journal of Industrial Organization*(Forthcoming)"
 publication_short: ""
 
-abstract: This paper analyses the impact of trade policies that seek to improve domestic production on welfare. I estimate how an ad-valorem tariff over handset components introduced by the Indian Government affects a firm's decision over price, production location, and product set.
-The preliminary estimates suggest that the analyzed trade policy introduced succeeds in motivating firms to switch to local production. As a consequence of this, prices increase, and the number of available products decreases. In combination with a decrease in some firms' profits, the introduction of the policy diminishes total welfare.
+abstract: This article evaluates the welfare implications of a public procurement program, where the Ecuadorian government procures medicines used for cancer treatment and distributes it to patients for free with the aim to benefit the poor. Using a unique dataset on Ecuador’s pharmaceutical market, we estimate a structural model of demand and supply, and focus on two research questions related to this program.
+
 # Summary. An optional shortened abstract.
 summary: ""
 
@@ -30,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
+url_pdf: https://drive.google.com/file/d/1deVGT3LJtjYTCWAiUqGlfBiXLOwMtHVg/view?usp=sharing
 url_code: ''
 url_dataset: ''
 url_poster: ''
