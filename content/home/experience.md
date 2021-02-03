@@ -34,7 +34,6 @@ experience:
     Responsibilities include:
     * Analysing
     * Modelling
-    * Deploying
   location: Quito - Ecuador
   title: Consultant
 - company: Telefonica Ecuador
