@@ -33,7 +33,7 @@ education:
       year: 2021
     - course: M.S. Competition Policy and Market Regulation
       institution: Barcelona Graduate School of Economics
-      year: 2019
+      year: 2014
     - course: Certificate in Statistical and Computational Data Science
       institution: University of Massachusetts Amherst
       year: 2020
