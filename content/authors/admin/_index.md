@@ -31,12 +31,12 @@ education:
     - course: Ph.D. (expected 2021) Resource Economics
       institution: University of Massachusetts Amherst
       year: 2021
-    - course: M.S. Competition Policy and Market Regulation
-      institution: Barcelona Graduate School of Economics
-      year: 2014
     - course: Certificate in Statistical and Computational Data Science
       institution: University of Massachusetts Amherst
       year: 2020
+    - course: M.S. Competition Policy and Market Regulation
+      institution: Barcelona Graduate School of Economics
+      year: 2014
     - course: B.A. in Economics
       institution: Pontificia Universidad Catolica del Ecuador
       year: 2009
