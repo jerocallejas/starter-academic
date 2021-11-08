@@ -3,7 +3,7 @@ title: "Welfare and Environmental Benefits of Electric Vehicle Tax Policies in D
 authors:
 - admin
 - Joshua Linn
-- Jevgenijs Steinbuks1
+- Jevgenijs Steinbuks
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
