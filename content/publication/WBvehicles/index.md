@@ -2,6 +2,11 @@
 title: "Welfare and Environmental Benefits of Electric Vehicle Tax Policies in Developing Countries: Evidence from Colombia"
 authors:
 - admin
+- Joshua Linn
+- Jevgenijs Steinbuks1
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2021-11-02T00:00:00Z"
 doi: ""
 
