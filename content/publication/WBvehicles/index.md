@@ -1,12 +1,12 @@
 ---
-title: "Domestic Industrial Policy and Consumer Surplus in Developing Countries"
+title: "Welfare and Environmental Benefits of Electric Vehicle Tax Policies in Developing Countries: Evidence from Colombia"
 authors:
 - admin
 date: "2021-11-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-11-02T00:00:00Z"
+publishDate: "2021-10-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: With the aim to encourage domestic mobile handset production, the Indian Government planned to impose tariffs on imported mobile phone components. I evaluate the welfare consequences of this policy by computing the consumer surplus as well as the producer surplus changes due to the policy. To this end, I implement a structural model of India's mobile phone market where firms can endogenously decide production location, product set, and prices and evaluate the effects of the policy in the counterfactual world. The results suggest that the continuation of this policy will  lead to large-scale production relocation, products exiting the market, and price increases leading to a drop in consumer surplus.
+abstract: In developing countries, shifting from gasoline to electric vehicles could substantially reduce transportation sector greenhouse gas emissions. There is little evidence on which policies can cost effectively facilitate that transition in these countries, which are distinguished by having relatively low-income consumers and highly concentrated markets. This paper analyzes existing and proposed policies aiming to reduce emissions from new passenger vehicles in Colombia, which has used preferential sales taxes and import tariffs to stimulate sales of hybrid and electric vehicles. Using highly detailed data on vehicle purchases and attributes, we estimate an equilibrium model of Colombia’s market that includes a random-coefficients logit demand structure and endogenizes firms’ markups. Using the model to simulate policies, we find that Colombia’s sales tax and import tariffs have increased hybrid and electric vehicle market shares by 0.9 to 2.7 percentage points at welfare costs of $120-510 per ton of carbon dioxide reduction. Potentially taxing carbon dioxide emissions rates of new vehicles would have roughly similar welfare costs. The high welfare costs of these policies arise from pre-existing distortions caused by market power, which yields large private welfare costs of shifting from gasoline to hybrid and electric vehicles.
 # Summary. An optional shortened abstract.
 summary: ""
 
@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.dropbox.com/s/93zs9erjchp4tog/Domestic%20Industrial%20Policy%20and%20Consumer%20Surplus%20in%20Developing%20Countries%20-%20%5BJeronimo%20Callejas%5D.pdf?dl=0
+url_pdf: https://www.dropbox.com/s/b29hkrf1o4rwzhg/Colombia%20electric%20vehicle%20tax%20policy%20paper.pdf?dl=0
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
