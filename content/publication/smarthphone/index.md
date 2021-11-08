@@ -26,9 +26,10 @@ tags:
 
 featured: false
 
-links:
-- name: Custom Link
-  url: ""
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://www.dropbox.com/s/93zs9erjchp4tog/Domestic%20Industrial%20Policy%20and%20Consumer%20Surplus%20in%20Developing%20Countries%20-%20%5BJeronimo%20Callejas%5D.pdf?dl=0
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
