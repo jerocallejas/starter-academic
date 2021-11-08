@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: This paper analyses the impact of trade policies that seek to improve domestic production on welfare. I estimate how an ad-valorem tariff over handset components introduced by the Indian Government affects a firm's decision over price, production location, and product set. The preliminary estimates suggest that the analyzed trade policy introduced succeeds in motivating firms to switch to local production. As a consequence of this, prices increase, and the number of available products decreases. In combination with a decrease in some firms' profits, the introduction of the policy diminishes total welfare.
+abstract: With the aim to encourage domestic mobile handset production, the Indian Government planned to impose tariffs on imported mobile phone components. I evaluate the welfare consequences of this policy by computing the consumer surplus as well as the producer surplus changes due to the policy. To this end, I implement a structural model of India's mobile phone market where firms can endogenously decide production location, product set, and prices and evaluate the effects of the policy in the counterfactual world. The results suggest that the continuation of this policy will  lead to large-scale production relocation, products exiting the market, and price increases leading to a drop in consumer surplus.
 # Summary. An optional shortened abstract.
 summary: ""
 
