@@ -15,7 +15,7 @@ publishDate: "2021-11-02T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Job Market Paper"
 publication_short: ""
 
 abstract: With the aim to encourage domestic mobile handset production, the Indian Government planned to impose tariffs on imported mobile phone components. I evaluate the welfare consequences of this policy by computing the consumer surplus as well as the producer surplus changes due to the policy. To this end, I implement a structural model of India's mobile phone market where firms can endogenously decide production location, product set, and prices and evaluate the effects of the policy in the counterfactual world. The results suggest that the continuation of this policy will  lead to large-scale production relocation, products exiting the market, and price increases leading to a drop in consumer surplus.
