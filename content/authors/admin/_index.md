@@ -80,4 +80,4 @@ user_groups:
 I am a Ph.D. student in the Resource Economics Department at the University of Massachusetts Amherst. I have a B.A. in Economics from the Pontificia Universidad Catolica del Ecuador and an M.S. in Economic Analysis from the Barcelona Graduate School of Economics. My research interest includes Quantitative Industrial Organization, Econometrics, Regulation, and Antitrust.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV Jeronimo Callejas.pdf" "newtab" >}}resumé{{< /staticref >}}.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "JMP" "newtab" >}}Job Market Paper{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/JMP" "newtab" >}}Job Market Paper{{< /staticref >}}.
