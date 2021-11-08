@@ -20,7 +20,7 @@ publishDate: "2021-10-25T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Working Paper"
 publication_short: ""
 
 abstract: In developing countries, shifting from gasoline to electric vehicles could substantially reduce transportation sector greenhouse gas emissions. There is little evidence on which policies can cost effectively facilitate that transition in these countries, which are distinguished by having relatively low-income consumers and highly concentrated markets. This paper analyzes existing and proposed policies aiming to reduce emissions from new passenger vehicles in Colombia, which has used preferential sales taxes and import tariffs to stimulate sales of hybrid and electric vehicles. Using highly detailed data on vehicle purchases and attributes, we estimate an equilibrium model of Colombia’s market that includes a random-coefficients logit demand structure and endogenizes firms’ markups. Using the model to simulate policies, we find that Colombia’s sales tax and import tariffs have increased hybrid and electric vehicle market shares by 0.9 to 2.7 percentage points at welfare costs of $120-510 per ton of carbon dioxide reduction. Potentially taxing carbon dioxide emissions rates of new vehicles would have roughly similar welfare costs. The high welfare costs of these policies arise from pre-existing distortions caused by market power, which yields large private welfare costs of shifting from gasoline to hybrid and electric vehicles.
