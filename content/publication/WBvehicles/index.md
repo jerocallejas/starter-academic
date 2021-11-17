@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.dropbox.com/s/b29hkrf1o4rwzhg/Colombia%20electric%20vehicle%20tax%20policy%20paper.pdf?dl=0
+# url_pdf: https://www.dropbox.com/s/b29hkrf1o4rwzhg/Colombia%20electric%20vehicle%20tax%20policy%20paper.pdf?dl=0
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
