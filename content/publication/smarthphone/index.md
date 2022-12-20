@@ -1,5 +1,5 @@
 ---
-title: "Domestic Industrial Policy and Consumer Surplus in Developing Countries"
+title: "Domestic Tariffs and Consumer Welfare in Developing Countries: Evidence from India"
 authors:
 - admin
 date: "2021-11-02T00:00:00Z"
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: "Job Market Paper"
 publication_short: ""
 
-abstract: With the aim to encourage domestic mobile handset production, the Indian Government planned to impose tariffs on imported mobile phone components. I evaluate the welfare consequences of this policy by computing the consumer surplus as well as the producer surplus changes due to the policy. To this end, I implement a structural model of India's mobile phone market where firms can endogenously decide production location, product set, and prices and evaluate the effects of the policy in the counterfactual world. The results suggest that the continuation of this policy will  lead to large-scale production relocation, products exiting the market, and price increases leading to a drop in consumer surplus.
+abstract: This paper studies the unintended welfare consequences of industrial policies designed to encourage domestic production in the context of developing countries. We explore the case of the Indian mobile handset industry, where the Indian government proposed new tariffs on imported ready-to-use mobile handsets and handset components in 2017 to encourage domestic mobile phone production, which was later stalled. We develop and estimate a structural model of India’s mobile phone handset industry by allowing firms to endogenously decide supply chain alternatives, product sets, and prices. Our counterfactual simulations suggest that the continuation of the proposed policy would have resulted in firms lowering investments in the supply chain within India, defeating the policy’s goal. Additionally, the exit of products from the market and price increase due to lower competition would lead to a drop in consumer surplus.
 # Summary. An optional shortened abstract.
 summary: ""
 
@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.dropbox.com/s/93zs9erjchp4tog/Domestic%20Industrial%20Policy%20and%20Consumer%20Surplus%20in%20Developing%20Countries%20-%20%5BJeronimo%20Callejas%5D.pdf?dl=0
+url_pdf: [https://www.dropbox.com/s/93zs9erjchp4tog/Domestic%20Industrial%20Policy%20and%20Consumer%20Surplus%20in%20Developing%20Countries%20-%20%5BJeronimo%20Callejas%5D.pdf?dl=0]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
