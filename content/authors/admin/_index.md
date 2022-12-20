@@ -6,12 +6,12 @@ title: Jeronimo Callejas
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Resource Economics University of Massachusetts Amherst
+role: Economist at Amazon.com
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Massachusetts at Amherst
-  url: https://www.umass.edu/resec/graduate-students
+- name: Amazon
+  url: www.linkedin.com/in/jeronimocallejas
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Empirical Industrial Organization,Econometrics, Regulation and Antitrust.
@@ -28,9 +28,9 @@ interests:
 # Education to show in About widget
 education:
  courses:
-    - course: Ph.D. (expected 2022) Resource Economics
+    - course: Ph.D. in Resource Economics
       institution: University of Massachusetts Amherst
-      year: 2021
+      year: 2022
     - course: Certificate in Statistical and Computational Data Science
       institution: University of Massachusetts Amherst
       year: 2020
