@@ -77,7 +77,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Ph.D. student in the Resource Economics Department at the University of Massachusetts Amherst. I have a M.S. in Economic Analysis from the Barcelona Graduate School of Economics and a B.A. in Economics from the Pontificia Universidad Catolica del Ecuador. My research interest includes Quantitative Industrial Organization, Econometrics, Regulation, and Antitrust.
+I am an Economist at Amazon. I earn a Ph.D. in Resource Economics from the University of Massachusetts Amherst. I have a M.S. in Economic Analysis from the Barcelona Graduate School of Economics and a B.A. in Economics from the Pontificia Universidad Catolica del Ecuador. My research interest includes Quantitative Industrial Organization, Econometrics, Regulation, and Antitrust.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV Jeronimo Callejas.pdf" "newtab" >}}CV{{< /staticref >}}.
 
