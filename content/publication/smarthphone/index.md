@@ -1,7 +1,7 @@
 ---
 title: "Domestic Tariffs and Consumer Welfare in Developing Countries: Evidence from India"
 authors:
-- admin, Chirantan Chatterjee, and Debi Prasad Mohapatra
+- Jeronimo Callejas, Chirantan Chatterjee, and Debi Prasad Mohapatra
 date: "2021-11-02T00:00:00Z"
 doi: ""
 
