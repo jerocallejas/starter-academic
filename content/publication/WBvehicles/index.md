@@ -1,5 +1,5 @@
 ---
-title: "Welfare and Environmental Benefits of Electric Vehicle Tax Policies in Developing Countries: Evidence from Colombia"
+title: "The Implications of Pre-Existing Market Power Distortions for Electric Vehicle Tax Policies: Evidence from Colombia"
 authors:
 - admin
 - Joshua Linn
