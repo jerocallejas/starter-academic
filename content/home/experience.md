@@ -28,7 +28,7 @@ experience:
 - company: Amazon
   company_url: "https://www.amazon.com/"
   date_end: "2022-07-01"
-  date_start: ""
+  date_start:
   description: |-
     Develop and implement economic models for labor planning and execution strategies.
     Responsibilities include:
