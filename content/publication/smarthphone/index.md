@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-https://drive.google.com/file/d/1kLsU8GFKH6N8vDrrbRU9oEhajX9bhf2i/view?usp=share_link
+url_pdf: https://drive.google.com/file/d/1kLsU8GFKH6N8vDrrbRU9oEhajX9bhf2i/view?usp=share_link
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
