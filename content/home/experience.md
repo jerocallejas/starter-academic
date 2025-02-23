@@ -25,6 +25,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
+- company: Amazon
+  company_url: "https://www.amazon.com/"
+  date_end: "2022-07-01"
+  date_start: "Current job"
+  description: |-
+    Develop and implement economic models for labor planning and execution strategies.
+    Responsibilities include:
+    * Economic Modelling
+    * Model Productionalization
+  location: Bellevueo - WA
+  title: Economist II
 - company: Aleph Omega
   company_url: "alephomega.com.ec"
   date_end: "2020-12-31"
