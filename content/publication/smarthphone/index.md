@@ -15,10 +15,10 @@ publishDate: "2021-11-02T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Job Market Paper"
+publication: "Conditionally Accepted at the Rand Journal of Economics"
 publication_short: ""
 
-abstract: This paper studies the unintended welfare consequences of industrial policies designed to encourage domestic production in the context of developing countries. We explore the case of the Indian mobile handset industry, where the Indian government proposed new tariffs on imported ready-to-use mobile handsets and handset components in 2017 to encourage domestic mobile phone production, which was later stalled. We develop and estimate a structural model of India’s mobile phone handset industry by allowing firms to endogenously decide supply chain alternatives, product sets, and prices. Our counterfactual simulations suggest that the continuation of the proposed policy would have resulted in firms lowering investments in the supply chain within India, defeating the policy’s goal. Additionally, the exit of products from the market and price increase due to lower competition would lead to a drop in consumer surplus.
+abstract: This paper examines the welfare consequences of industrial policies aimed at boosting domestic manufacturing in developing countries, focusing on the Indian government’s tariff policy for mobile handset production. We develop a structural model of India’s mobile handset industry, where firms endogenously decide supply chain alternatives, product sets, and prices. Our counterfactual simulations indicate that the status quo import tariff on ready-to-use handsets significantly increases local assembly operations. However, a lower tariff of around 8% would maintain similar assembly levels while significantly enhancing consumer surplus. An additional input import tariff on handset components discourages firms from relocating operations to India, potentially undermining the policy’s goal.  
 # Summary. An optional shortened abstract.
 summary: ""
 
@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.dropbox.com/s/1webj53gqop6mj7/Tariffs_Callejas_Chatterjee_Mohapatra.pdf?dl=0
+https://drive.google.com/file/d/1kLsU8GFKH6N8vDrrbRU9oEhajX9bhf2i/view?usp=share_link
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
