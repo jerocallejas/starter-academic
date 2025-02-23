@@ -28,8 +28,7 @@ abstract: New vehicle markets in developing countries are characterized by low-i
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-Colombia, electric vehicles, import tariffs, market power, vehicle taxes
+tags: Colombia, electric vehicles, import tariffs, market power, vehicle taxes
 featured: false
 
 # links:
