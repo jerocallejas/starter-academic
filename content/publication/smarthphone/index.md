@@ -2,11 +2,11 @@
 title: "Domestic Tariffs and Consumer Welfare in Developing Countries: Evidence from India"
 authors:
 - Jeronimo Callejas, Chirantan Chatterjee, and Debi Prasad Mohapatra
-date: "2021-11-02T00:00:00Z"
+date: "2024-07-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-11-02T00:00:00Z"
+publishDate: "2024-07-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
