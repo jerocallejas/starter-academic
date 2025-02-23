@@ -14,7 +14,7 @@ organizations:
   url: www.linkedin.com/in/jeronimocallejas
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Empirical Industrial Organization,Econometrics, Regulation and Antitrust.
+bio: My research interests include Empirical Industrial Organization,Econometrics, Regulation, Antitrust and Labor Economics.
 
 
 # Interests to show in About widget
@@ -22,7 +22,7 @@ interests:
 - Industrial Organization.
 - Econometrics.
 - Antitrust.
-- Computer Science.
+- Labor Economics.
 
 
 # Education to show in About widget
@@ -80,5 +80,3 @@ user_groups:
 I am an Economist at Amazon. I earned a Ph.D. in Resource Economics from the University of Massachusetts Amherst. I have a M.S. in Economic Analysis from the Barcelona Graduate School of Economics and a B.A. in Economics from the Pontificia Universidad Catolica del Ecuador. My research interest includes Quantitative Industrial Organization, Econometrics, Regulation, and Antitrust.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV Jeronimo Callejas.pdf" "newtab" >}}CV{{< /staticref >}}.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/JeronimoCallejasJMP.pdf" "newtab" >}}Job Market Paper{{< /staticref >}}.
