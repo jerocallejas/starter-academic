@@ -34,7 +34,7 @@ experience:
     Responsibilities include:
     * Economic Modelling
     * Model Productionalization
-  location: Bellevueo - WA
+  location: Bellevue - WA
   title: Economist II
 - company: Aleph Omega
   company_url: "alephomega.com.ec"
