@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Work Experience
+title: Experience
 subtitle:
 
 # Date format
@@ -27,8 +27,8 @@ date_format: Jan 2006
 experience:
 - company: Amazon
   company_url: "https://www.amazon.com/"
-  date_end: "2022-07-01"
-  date_start:
+  date_end:
+  date_start: "2022-07-01"
   description: |-
     Develop and implement economic models for labor planning and execution strategies.
     Responsibilities include:
